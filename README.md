@@ -13,3 +13,4 @@ bool render_segments = true;
 bool render_filtred = false;
 ```
 Furthermore, a series of PNG-images is created, if `bool save_png` is set to true.
+![](Birdseye_view.gif)
