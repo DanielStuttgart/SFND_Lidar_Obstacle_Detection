@@ -1,4 +1,6 @@
-/* \author Aaron Brown */
+/* \author Daniel Slieter */
+// original created by Aaron Brown
+
 // Create simple 3d highway enviroment using PCL
 // for exploring self-driving car sensors
 
